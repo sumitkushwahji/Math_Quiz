@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="question_1">Is 9 is prime no. </string>
+    <string name="question_2">Is 29 is prime no. </string>
+    <string name="question_3">Is 33 is prime no. </string>
+    <string name="question_4">Is 47 is prime no. </string>
+    <string name="question_5">Is 49 is prime no. </string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="cheat_button">Cheat</string>
+
+</resources>
